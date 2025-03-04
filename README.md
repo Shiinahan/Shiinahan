@@ -51,7 +51,7 @@
   
 
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/shiinahan/shiinahan/output/snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Shiinahan/Shiinahan/output/snake.svg" alt="Snake animation" />
 
   <!-- Visitor Counter -->
   <div>
